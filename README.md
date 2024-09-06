@@ -25,3 +25,7 @@ This is a basic 2D game built with the Godot Engine as part of a beginner tutori
 ## How to Play
 
 Navigate to not hit any of the enemies. Try to stay alive as long as you can. 
+
+## Game Preview
+
+![Game Screenshot](Game Screenshot.png)

@@ -28,4 +28,4 @@ Navigate to not hit any of the enemies. Try to stay alive as long as you can.
 
 ## Game Preview
 
-![Game Screenshot](Game Screenshot.png)
+![Game Screenshot](GameScreenshot.png)

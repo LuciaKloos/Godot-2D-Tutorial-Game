@@ -1,6 +1,7 @@
 # 2D Game from the Godot Tutorial
 
-This is a basic 2D game built with the Godot Engine as part of a beginner tutorial series. The project demonstrates the fundamentals of creating a 2D game, including player movement, animations, collisions, and level design.
+This is the first Godot game I buidl, based on a tutorial from Godot. The project demonstrates the fundamentals of creating a 2D game, including player movement, animations, collisions, and level design.
+The link to the online tutorial I used: https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html
 
 ## Features
 

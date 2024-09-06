@@ -17,7 +17,7 @@ public partial class Main : Node
 		GetNode<Hud>("HUD").ShowGameOver();
 
 		GetNode<AudioStreamPlayer>("Music").Stop();
-    	GetNode<AudioStreamPlayer>("DeathSound").Play();
+		GetNode<AudioStreamPlayer>("GameOverSound").Play();
 	}
 
 	public void NewGame()
